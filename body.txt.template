@@ -1,0 +1,30 @@
+    <mbr-parameters>
+    <!-- Block parameters controls (Blue "Gear" panel) -->
+        <input type="range" inline="" title="Top" name="paddingTop" min="0" max="8" step="1" value="0">
+        <input type="range" inline="" title="Bottom" name="paddingBottom" min="0" max="8" step="1" value="0">
+        <input type="color" title="Background Color" name="bgColor" value="#ffffff">
+    <!-- End block parameters -->
+    </mbr-parameters> 
+
+        <div align="center">
+		    <div id="iufeeyptfa" class="container-lg-7 col-6 vid-ads vid-ads-id-8 vid-ads-alignment-center vid-ads-close-button-top vid-ads-close-button-color-red" data-config="{&quot;start_after&quot;:10,&quot;close_btn_delay&quot;:0,&quot;auto_close&quot;:true,&quot;pause_on_ad&quot;:true,&quot;recurrence&quot;:1,&quot;ad_duration&quot;:10,&quot;height&quot;:441,&quot;width&quot;:784,&quot;video_id&quot;:&quot;VIDEOID&quot;,&quot;element_id&quot;:&quot;iufeeyptfa&quot;,&quot;player_id&quot;:&quot;te75v7mp1x&quot;,&quot;cookie_duration&quot;:&quot;&quot;}">
+                <div class="video-wrapper">
+                    <div class="player" id="VIDEOID"></div>
+                </div>
+                <div class="vid-ads-items">
+                    <div class="vid-ads-item vid-ads-upload-type-banner vid-ads-img-responsive"><a href="REDIRECTURL" target="_blank"><img src="IMGPATH"></a>
+                    </div>
+                </div>
+            <a class="vid-ads-close-button vid-ads-close-top" href="#"><span class="vid-ads-close-text">Close</span> <img src="./assets/images/close-icon.png"></a>
+            </div>
+        </div>
+
+
+	<script src="http://youtube.com/iframe_api?ver=1634566050" id="vidadz-youtube-iframe-js"></script>
+
+<script src="./assets/vidadz/js/jquery.cookie758e.js?ver=1634566050" id="vidadz-cookie-js"></script>
+<script src="./assets/vidadz/js/vid-ads758e.js?ver=1634566050" id="vidadz-plugin-js"></script>
+<script id="vidadz-js-extra">
+var VIDADS = {"cookie_duration":"0"};
+</script>
+<script src="./assets/vidadz/js/frontend758e.js?ver=1634566050" id="vidadz-js"></script>

@@ -1,0 +1,6 @@
+<link rel='dns-prefetch' href='//youtube.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<link rel='stylesheet' id='vidadz-css'  href='./assets/vidadz/css/frontend758e.css?ver=1634566050' media='all' />
+<script src='./assets/jquery/js/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='./assets/jquery/js/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
